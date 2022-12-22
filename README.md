@@ -2,6 +2,10 @@
 
 OBJETIVOS
 
+Reconocer las diferentes formas de resolución de ejercicios de circuitos eléctricos y elegir el que sea más conveniente para nuestro uso.
+
+Apreder que es el magnetismo y el eléctromagnetismo, y como este se relaciona con los circuitos eléctricos, además de apreder en que ambitos podemos emplearlos.
+
 MARCO TEORICO (RESUMEN)
 
 ![ANÁLISIS DE RAMAS, LAZOS Y NODOS](https://user-images.githubusercontent.com/116812951/209007125-1a6638de-75a4-42e3-9671-7ddd9ef1d7a8.png)
@@ -13,6 +17,10 @@ EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 VIDEO
 
 CONCLUSIONES
+
+Aprendimos las diferentes formas de resolución de ejercicios de circuitos electricos, así como, en que ambitos podemos emplear los diferentes métodos de resolución según nuestras necesidades.
+
+Entendimos que es el magnetismos y eléctromagnetismo y como este se puede emplear en los circuitos eléctricos.
 
 BIBLIOGRAFÍA
 
