@@ -16,6 +16,8 @@ EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 VIDEO
 
+https://youtu.be/XW3uyRskdJU
+
 CONCLUSIONES
 
 Aprendimos las diferentes formas de resolución de ejercicios de circuitos electricos, así como, en que ambitos podemos emplear los diferentes métodos de resolución según nuestras necesidades.
